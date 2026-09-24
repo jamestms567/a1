@@ -1,0 +1,207 @@
+{
+  "domain": "trattoriafeast",
+  "niche": "Artisanal Trattoria Feast & Evening Dining Occasions",
+  "design_concept": "Editorial Monolith & Asymmetric Showcase",
+  "archetype_id": "editorial_monolith",
+  "pages": [
+    "index.html",
+    "about.html",
+    "services.html",
+    "contact.html",
+    "faq.html",
+    "privacy-policy.html",
+    "terms-and-conditions.html",
+    "disclaimer.html",
+    "cookie-policy.html"
+  ],
+  "images": [
+    {
+      "index": 1,
+      "filename": "granite_prep_bench_knives.jpg",
+      "size_kb": 144.81,
+      "md5": "919e28778afb9d5b13fe81ecceb06745",
+      "description": "Granite culinary prep counter with hand-forged Japanese vegetable knives",
+      "page": "index.html",
+      "section": "Hero Masthead"
+    },
+    {
+      "index": 2,
+      "filename": "lively_mercer_bistro_patrons.jpg",
+      "size_kb": 168.02,
+      "md5": "1410461b4f4afbfad88fe221b5da17f2",
+      "description": "Lively communal dining salon with guests enjoying gastronomic flights",
+      "page": "index.html",
+      "section": "Signature Showcase I"
+    },
+    {
+      "index": 3,
+      "filename": "twilight_courtyard_dining.jpg",
+      "size_kb": 231.23,
+      "md5": "b3cc69ab7eadd35da14bacc516a8a465",
+      "description": "Twilight botanical courtyard dining terrace with glowing lanterns",
+      "page": "index.html",
+      "section": "Signature Showcase II"
+    },
+    {
+      "index": 4,
+      "filename": "handcrafted_ceramic_dinnerware.jpg",
+      "size_kb": 247.14,
+      "md5": "fba7f24f025c3c9a61caf46c2b343569",
+      "description": "Handcrafted stoneware bowls and brushed brass flatware setting",
+      "page": "index.html",
+      "section": "Signature Showcase III"
+    },
+    {
+      "index": 5,
+      "filename": "artisan_baked_pastry_snack.jpg",
+      "size_kb": 152.65,
+      "md5": "2b5e6a3ef72a80c40459433fccc76b0b",
+      "description": "Artisan baked pastry snack with honey and nuts",
+      "page": "index.html",
+      "section": "Curated Collection I"
+    },
+    {
+      "index": 6,
+      "filename": "culinary_salad_bowl.jpg",
+      "size_kb": 226.55,
+      "md5": "dad9fee39b35dd4c85ce651443b514c9",
+      "description": "Salad bowl",
+      "page": "index.html",
+      "section": "Curated Collection II"
+    },
+    {
+      "index": 7,
+      "filename": "pan_seared_dinner_entree.jpg",
+      "size_kb": 276.14,
+      "md5": "3b9a1ba9fdb2d9ce5cce6a04b8aeaf65",
+      "description": "Pan-seared gourmet dinner entree with seasonal herbs",
+      "page": "index.html",
+      "section": "Heritage Story I"
+    },
+    {
+      "index": 8,
+      "filename": "chef_finishing_evening_course.jpg",
+      "size_kb": 123.0,
+      "md5": "697fdfea73e65739508dd498f3545838",
+      "description": "Executive chef garnishing dinner course at the kitchen pass",
+      "page": "index.html",
+      "section": "Heritage Story II"
+    },
+    {
+      "index": 9,
+      "filename": "wood_fired_evening_specialty.jpg",
+      "size_kb": 249.56,
+      "md5": "26e494b9d1fcd3d1209a5223d97f253f",
+      "description": "Artisanal wood-fired dinner specialty fresh from the hearth",
+      "page": "about.html",
+      "section": "Heritage Hero"
+    },
+    {
+      "index": 10,
+      "filename": "chef_specialty_saucing_plate.jpg",
+      "size_kb": 105.87,
+      "md5": "76c43f4e3faf7e73229b496c75fc6fd4",
+      "description": "Delicate hand-saucing of a bespoke dinner plate",
+      "page": "about.html",
+      "section": "Principles Pillar I"
+    },
+    {
+      "index": 11,
+      "filename": "wok_tossed_artisan_dinner.jpg",
+      "size_kb": 165.41,
+      "md5": "b0d010855f4f355254e0b0a85f2cb762",
+      "description": "Wok-tossed hand-crafted noodles with crisp vegetables",
+      "page": "about.html",
+      "section": "Principles Pillar II"
+    },
+    {
+      "index": 12,
+      "filename": "omakase_evening_dinner_flight.jpg",
+      "size_kb": 213.61,
+      "md5": "04d1fbcd208b44bf3e04156cf994869b",
+      "description": "Chef omakase dinner tasting flight arranged on slate",
+      "page": "about.html",
+      "section": "Principles Pillar III"
+    },
+    {
+      "index": 13,
+      "filename": "artisan_sourdough_dinner_loaf.jpg",
+      "size_kb": 321.46,
+      "md5": "ad3ec72d2ddd1a2d136308f34332b71b",
+      "description": "Warm crusty stone-baked sourdough loaf with sea salt",
+      "page": "services.html",
+      "section": "Services Hero"
+    },
+    {
+      "index": 14,
+      "filename": "tokyo_evening_street_ramen_lantern.jpg",
+      "size_kb": 111.42,
+      "md5": "a659a05ebfd559732cb6d645cb364fd0",
+      "description": "Traditional red ramen noren banner and glowing paper lantern hanging outside the cozy evening dining atelier",
+      "page": "services.html",
+      "section": "Specialty I"
+    },
+    {
+      "index": 15,
+      "filename": "hero_tonkotsu_ramen_dinner_bowl.jpg",
+      "size_kb": 342.31,
+      "md5": "8aaa29a829a49d83e0ce932fac63abdd",
+      "description": "Rich steaming tonkotsu ramen dinner bowl with tender chashu pork belly, ajitsuke tamago egg, and fresh scallions",
+      "page": "services.html",
+      "section": "Specialty II"
+    },
+    {
+      "index": 16,
+      "filename": "artisan_shoyu_ramen_dinner_course.jpg",
+      "size_kb": 104.18,
+      "md5": "52ba8e7d7dee5ef5c739399759122970",
+      "description": "Artisanal Tokyo-style shoyu ramen with menma bamboo shoots, nori sheet, and hand-pulled wavy noodles",
+      "page": "services.html",
+      "section": "Specialty III"
+    },
+    {
+      "index": 17,
+      "filename": "traditional_ramen_counter_service.jpg",
+      "size_kb": 118.13,
+      "md5": "c3fc9ce9e6fa6213857d96aeb31adc95",
+      "description": "Traditional intimate wooden ramen dining counter illuminated with warm paper lanterns during evening dinner service",
+      "page": "services.html",
+      "section": "Specialty IV"
+    },
+    {
+      "index": 18,
+      "filename": "japanese_ramen_atelier_ambiance.jpg",
+      "size_kb": 232.81,
+      "md5": "e234e691cfc67e8dd6a4ae108ab1d620",
+      "description": "Moody atmospheric evening dining room with minimalist timber screens and soft ambient dining lighting",
+      "page": "services.html",
+      "section": "Specialty V"
+    },
+    {
+      "index": 19,
+      "filename": "japanese_evening_dinner_banquet.jpg",
+      "size_kb": 150.38,
+      "md5": "826857ea2f41fc4e0bd608d49b60bf80",
+      "description": "Festive Japanese evening dinner banquet spread with ramen bowls, side dishes, and cold green tea",
+      "page": "contact.html",
+      "section": "Salon Consultation"
+    },
+    {
+      "index": 20,
+      "filename": "farmers_market_vegetable_supper.jpg",
+      "size_kb": 187.87,
+      "md5": "d620a2befc20426efc1b0809c2e728c6",
+      "description": "Vibrant roasted root vegetables with aged balsamic glaze",
+      "page": "faq.html",
+      "section": "Collector FAQ"
+    }
+  ],
+  "seo": {
+    "google_tag": "G-0LY0HY7L01",
+    "address": "181 Mercer Street, New York, NY 10012, United States",
+    "telephone": "+1-888-777-5845",
+    "sitemap": "https://trattoriafeast.com/sitemap.xml",
+    "robots": "https://trattoriafeast.com/robots.txt"
+  },
+  "validation_status": "PASSED_100_PERCENT"
+}
